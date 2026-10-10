@@ -5,7 +5,7 @@ Map-Generator, Feinschliff und Trainer für osu!standard – von **OnlyDeko**
 
 ## Cloud-Modus (experimentell)
 
-Kein NVIDIA-Grafikkarte? Mit dem Notebook läuft die KI (Mapperatorinator) auf einer kostenlosen Google-GPU:
+Keine NVIDIA-Grafikkarte? Mit dem Notebook läuft die KI (Mapperatorinator) auf einer kostenlosen Google-GPU:
 
 [![In Colab öffnen](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OnlyDeko/OsuMapForge/blob/main/colab/MapForge_Colab.ipynb)
 
