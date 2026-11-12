@@ -3,6 +3,12 @@
 Map-Generator, Feinschliff und Trainer für osu!standard – von **OnlyDeko**
 ([osu!-Profil](https://osu.ppy.sh/users/12630135) · [GitHub](https://github.com/OnlyDeko)).
 
+## Download (Beta)
+
+**[Installer für Windows herunterladen](https://github.com/OnlyDeko/OsuMapForge/releases/latest)** (Windows 10/11, 64-bit)
+
+MapForge braucht einen Beta-Lizenzschlüssel. Den gibt es auf Anfrage per osu!-Nachricht an [OnlyDeko](https://osu.ppy.sh/users/12630135). Beim ersten Start einfügen und aktivieren, danach läuft MapForge offline. Der KI-Modus braucht eine NVIDIA-Grafikkarte (GTX 16 / RTX 20 oder neuer), alles andere läuft auf jedem PC. Mehr dazu auf [osumapforge.com](https://osumapforge.com/#kaufen).
+
 ## Cloud-Modus (experimentell)
 
 Keine NVIDIA-Grafikkarte? Mit dem Notebook läuft die KI (Mapperatorinator) auf einer kostenlosen Google-GPU:
